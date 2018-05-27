@@ -1,5 +1,10 @@
 {
   "name": "sample",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "webpack": "^4.8.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.1.4"
+  }
 }
