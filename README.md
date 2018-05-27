@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # rails-my-app
 # new-sample-flower
+# new-sample-flower
